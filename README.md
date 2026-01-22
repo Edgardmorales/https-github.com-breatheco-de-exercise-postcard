@@ -1,7 +1,7 @@
 # https-github.com-breatheco-de-exercise-postcard
 tarjeta postal MG
 <!DOCTYPE html>
-<html lang="en">
+<html lang="INGLISH">
 <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +31,7 @@ tarjeta postal MG
         </div>
     </div>
 </body>
-
+</html>
 
 
 body{
@@ -82,4 +82,4 @@ button{
 
 
   
-</html>
+
